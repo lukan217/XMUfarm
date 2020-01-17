@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="gdx">
+    <archive path="F:/厦大农场 组长 苏招培/厦大农场/lib/gdx.jar" />
+    <archive path="F:/厦大农场 组长 苏招培/厦大农场/lib/gdx-backend-lwjgl.jar" />
+    <archive path="F:/厦大农场 组长 苏招培/厦大农场/lib/gdx-backend-lwjgl-natives.jar" />
+    <archive path="F:/厦大农场 组长 苏招培/厦大农场/lib/gdx-natives.jar" />
+    <archive path="F:/厦大农场 组长 苏招培/厦大农场/lib/mysql-connector-java-5.1.39-bin.jar" />
+  </library>
+</eclipse-userlibraries>
+

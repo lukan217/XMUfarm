@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.3.1" orientation="orthogonal" renderorder="right-down" compressionlevel="0" width="28" height="25" tilewidth="32" tileheight="32" infinite="0" nextlayerid="9" nextobjectid="58">
+ <properties>
+  <property name="name" value="farmhouse"/>
+ </properties>
+ <tileset firstgid="1" source="MEL`6G@K2C4Q)I[6KXHQD3I.tsx"/>
+ <tileset firstgid="235" source="Inside_A2.tsx"/>
+ <tileset firstgid="427" source="house_inside.tsx"/>
+ <tileset firstgid="651" source="Inside_A4.tsx"/>
+ <tileset firstgid="891" source="Inside_B.tsx"/>
+ <tileset firstgid="1147" source="arabic.tsx"/>
+ <layer id="1" name="图块层 1" width="28" height="25">
+  <data encoding="base64" compression="zlib">
+   eAG1VMtNQ0EM3BD+ElyogSNwpAZEOggdhNQAjZEOoAA+yT0SdABiRnojWSt72bePdxjZsr0e22t5klLaAabALrAH7AMHwCFwBBx3+Cum5FfeM+S6AOEl0EduU3rM468KOei7naR0Dr4n6CtgbDkH3zX4nsH1AowtFx0f+xwC1l2LG/SnWPKPjTn4xHE/oE/VHEnObwYsTX9RbGRXDuapxYPpT33WStZx1xPcT9bZAtbFP+gDuy/R3P7V3jhP3pfauds47kvLLMnX8o770jIv73bW5OG+2H5rdXtrpde85b6oVnvfcz2fnb210m2Mt7P0876oPk/Kls/Ky2djIj/3RfV5UrZ8Vl4+GxP5uS+fwFcg5bOzKumz7naQj3Hi1RvuyzfwE0j57KxKOu9byc99UQ+elG2BPDVgP6U47ot68KRsmsdQuQTfCWo6BTwpW2lGfXzcl1fgDXgHPoA1sAE8+wp2Oy8vhm+Vw+p8x32J3nh28mmm3EUvxnLY+vnuF/x1O1U=
+  </data>
+ </layer>
+ <layer id="2" name="图块层 2" width="28" height="25">
+  <data encoding="base64" compression="zlib">
+   eAG1VDsvbGEU/TwSxVUhGsrTeRVER6PRXPW9nQY/4EqUHgUShUSBxCPhckkGiVfl8ge8QouCUqKgF9ae2TuWnePMIeZL1uz97b3XWvN9Z+aEEEIUQncrwJFz6XVSn3M/Z3ub4X0FvL667kMY+iwX3tk1VZKLg4gTmo8ijgHjupcJ6cuSefE7px7nc1TPMXKfuKfsWtb+JM1NI58BZqlmfZkXv57SEHoBiyoXMsSxmkTccXbtxPT/obYGrMf0ZF78fsGrUyF53PqBern27Hxxc/lqaZ9fDbxq1S9yonOozydgQXlCY78X7JnHc3Xg1CvPn+8v6isJWFWe9/M8npNZW/b8bM+8XWjvAfvkzzp8PubJ9+U50X7Q30BkRho9z5+VddgvA48NwiZyXs/q5+/T81hDctZhP9ZOyv19Js1yb0n/D1xLk3u/NpzhAlqXQLu7E9bb/qJfxCLIf8LjFlp3QFeCn6PFbhuKQ2gELDYh989PiH/g05/SawjfaxgYAfw6hP4RINFyf5+ek2//CJ+nGC/hncLnDJBoeaSCJThPmUJyWZUaWzTmqu8/i9ArTui/n367z2pwDFXKb9bYh7j4wRm8Xr693ae8238r7D3foX4DiFvf7Cff6wCa/4HDb9KOO2tExWP4nACnBfTj/8MVfK6BmwL62fnwLuxOC7qSbJqWJ3N8Pq9TiL39PguhHacp9/kKUR+gTA==
+  </data>
+ </layer>
+ <layer id="3" name="图块层 3" width="28" height="25">
+  <data encoding="base64" compression="zlib">
+   eAFjYBgFoBDoZqZdOMyHmr0ASsP4tLJxPdCeA0C8AUqD+MMBZLMwMOQAMb2BNdBOGzra6w20y4eO9tE7PEftGw0BUAjsA5ZLO6BlE6xspHXInIDaByob6QFuQO0BlcejYDQERkNgYEMAACxrDUs=
+  </data>
+ </layer>
+ <objectgroup id="4" name="Teleport">
+  <object id="1" name="farm" x="382" y="734" width="130" height="36"/>
+ </objectgroup>
+ <objectgroup id="5" name="Player_Spawn">
+  <object id="2" name="farmhouse" x="414.255" y="638.009" width="72.9081" height="56"/>
+ </objectgroup>
+ <objectgroup id="6" name="Collision">
+  <object id="3" x="146" y="698" width="236" height="8"/>
+  <object id="4" x="68" y="618" width="84" height="86"/>
+  <object id="5" x="32" y="590" height="118"/>
+  <object id="6" x="28" y="702" width="46" height="6"/>
+  <object id="7" x="32" y="588" width="126" height="6"/>
+  <object id="8" x="154" y="568" width="6" height="20"/>
+  <object id="9" x="156" y="570" width="32" height="2"/>
+  <object id="10" x="188" y="572" width="38" height="26"/>
+  <object id="11" x="228" y="574" width="30" height="4"/>
+  <object id="12" x="262" y="574" width="56" height="18"/>
+  <object id="13" x="316" y="480" width="6" height="88"/>
+  <object id="14" x="32" y="478" width="284" height="2"/>
+  <object id="15" x="32" y="146" width="2" height="326"/>
+  <object id="16" x="30" y="112" width="36" height="34"/>
+  <object id="17" x="64" y="120" width="94" height="8"/>
+  <object id="18" x="160" y="120" width="34" height="22"/>
+  <object id="19" x="198" y="142" width="36" height="2"/>
+  <object id="20" x="226" y="140" width="28" height="18"/>
+  <object id="21" x="254" y="140" width="40" height="6"/>
+  <object id="22" x="286" y="118" width="32" height="24"/>
+  <object id="23" x="318" y="126" width="100"/>
+  <object id="24" x="418" y="120" width="28" height="28"/>
+  <object id="25" x="442" y="150" width="6" height="214"/>
+  <object id="26" x="412" y="360" width="38" height="42"/>
+  <object id="27" x="446" y="406" width="6" height="106"/>
+  <object id="28" x="96" y="192" width="62" height="32"/>
+  <object id="29" x="162" y="238" width="62" height="34"/>
+  <object id="30" x="88" y="382" width="134" height="80"/>
+  <object id="31" x="478" y="142" width="2" height="270"/>
+  <object id="32" x="478" y="416" width="126" height="5.4273"/>
+  <object id="33" x="604" y="420" width="2" height="90"/>
+  <object id="34" x="454" y="508" width="146" height="2"/>
+  <object id="35" x="482" y="140" width="124" height="4"/>
+  <object id="36" x="606" y="116" height="26"/>
+  <object id="37" x="606" y="122" width="256" height="8"/>
+  <object id="38" x="860" y="130" width="2" height="286"/>
+  <object id="40" x="704" y="418" height="92"/>
+  <object id="41" x="704" y="510" width="62" height="4"/>
+  <object id="42" x="762" y="512" width="46" height="10"/>
+  <object id="43" x="798" y="500" height="2"/>
+  <object id="44" x="804" y="508" width="38" height="2"/>
+  <object id="45" x="840" y="510" width="20" height="22"/>
+  <object id="46" x="860" y="508" width="2" height="196"/>
+  <object id="47" x="514" y="702" width="344" height="8"/>
+  <object id="48" x="382" y="704" width="6" height="90"/>
+  <object id="49" x="510" y="708" width="2" height="94"/>
+  <object id="50" x="796" y="252" width="36" height="72"/>
+  <object id="54" x="702.23" y="412.489" width="161.285" height="7.13649"/>
+  <object id="56" x="775.022" y="132.739" width="79.9286" height="88.4924"/>
+ </objectgroup>
+ <objectgroup id="7" name="NPC">
+  <object id="55" name="bed" x="767.886" y="129.884" width="65.6557" height="97.0562"/>
+ </objectgroup>
+</map>

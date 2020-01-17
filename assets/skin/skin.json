@@ -1,0 +1,201 @@
+{
+  "com.badlogic.gdx.graphics.g2d.BitmapFont": {
+    "textfont": {
+      "file": "default.fnt"
+    },
+    "titlefont": {
+      "file": "title.fnt"
+    }
+  },
+  "com.badlogic.gdx.graphics.Color": {
+    "black": {
+      "hex": "050505ff"
+    },
+    "red": {
+      "hex": "ff0000ff"
+    },
+    "RGBA_159_25_25_255": {
+      "hex": "9f1919ff"
+    },
+    "white": {
+      "hex": "fdfcfcff"
+    }
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.CheckBox$CheckBoxStyle": {
+    "default": {
+      "checkboxOn": "on",
+      "checkboxOff": "off",
+      "font": "textfont"
+
+    }
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle": {
+    "win1": {
+      "imageUp": "X1",
+      "imageDown": "X1",
+      "imageOver": "X1up"
+    },
+    "win2": {
+      "imageUp": "X2",
+      "imageDown": "X2_up",
+      "imageOver": "X2"
+    },
+    "down": {
+      "imageUp": "down",
+      "imageDown": "down",
+      "imageOver": "down2"
+    },
+    "up": {
+      "imageUp": "up",
+      "imageDown": "up",
+      "imageOver": "up2"
+    },
+    "next": {
+      "imageUp": "next1",
+      "imageDown": "next2",
+      "imageOver": "next1"
+    },
+    "next_little": {
+      "imageUp": "next1_little",
+      "imageDown": "next2_little",
+      "imageOver": "next1_little"
+    },
+    "set": {
+      "imageUp": "set1",
+      "imageDown": "set2",
+      "imageOver": "set1"
+    },
+    "help": {
+      "imageUp": "help1",
+      "imageDown": "help2",
+      "imageOver": "help1"
+    },
+    "gethome": {
+      "imageUp": "gethome1",
+      "imageDown": "gethome2",
+      "imageOver": "gethome1"
+    },
+    "close": {
+      "imageUp": "close1",
+      "imageDown": "close2",
+      "imageOver": "close1"
+    }
+
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle": {
+    "default": {
+      "font": "textfont",
+      "fontColor": "black"
+    },
+    "title": {
+      "font": "titlefont",
+      "fontColor": "black"
+    },
+    "white": {
+      "font": "textfont",
+      "fontColor": "white"
+    }
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.List$ListStyle": {
+    "default": {
+      "font": "textfont",
+      "fontColorSelected": "RGBA_159_25_25_255",
+      "fontColorUnselected": "black",
+      "selection": "tistknob",
+      "background": "list"
+    }
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.ProgressBar$ProgressBarStyle": {
+    "red": {
+      "background": "progressbar1",
+      "knobBefore": "progressbar2"
+    },
+    "green": {
+      "background": "progressbar1",
+      "knobBefore": "progressbar3"
+    }
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle": {
+    "default": {
+      "background": "list",
+      "hScrollKnob": "scoll",
+      "vScrollKnob": "scoll"
+    }
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.SelectBox$SelectBoxStyle": {
+    "default": {
+      "font": "textfont",
+      "fontColor": "black",
+      "background": "tistknob",
+      "scrollStyle": "default",
+      "listStyle": "default",
+      "backgroundOver": "knoblist",
+      "backgroundOpen": "knoblist",
+      "backgroundDisabled": "knoblist"
+    }
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.Slider$SliderStyle": {
+    "default-horizontal": {
+      "background": "vocalafter",
+      "knob": "vocalup",
+      "knobBefore": "vocalbefore",
+      "knobAfter": "vocalafter"
+    }
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle": {
+    "default": {
+      "font": "textfont",
+      "fontColor": "black",
+      "up": "button1",
+      "down": "button2",
+      "over": "button3"
+
+    }
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.TextField$TextFieldStyle": {
+    "default": {
+      "font": "textfont",
+      "fontColor": "black",
+      "background": "textfield",
+      "cursor": "curse",
+      "selection": "selection",
+      "messageFont": "textfont"
+    }
+  },
+
+  "com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle": {
+    "default": {
+      "background": "window1",
+      "titleFont": "textfont"
+    },
+    "window1": {
+      "background": "window1",
+      "titleFont": "textfont"
+    },
+    "dialog": {
+      "background": "dialog",
+      "titleFont": "textfont"
+    },
+    "window2": {
+      "background": "window2",
+      "titleFont": "textfont"
+    },
+    "npc1": {
+      "background": "npc1",
+      "titleFont": "titlefont"
+    },
+    "npc2": {
+      "background": "npc2",
+      "titleFont": "titlefont"
+    },
+    "npcme": {
+      "background": "npc4",
+      "titleFont": "titlefont"
+    },
+    "npc3": {
+      "background": "npc3",
+      "titleFont": "titlefont"
+    }
+  }
+}
+

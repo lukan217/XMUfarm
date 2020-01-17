@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="厦大农场:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/_jar</output-path>
+    <root id="archive" name="厦大农场.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="厦大农场" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/gdx.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/gdx-backend-lwjgl.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/gdx-backend-lwjgl-natives.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/gdx-natives.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mysql-connector-java-5.1.39-bin.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
