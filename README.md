@@ -4,11 +4,11 @@
 
 2. 游戏原型为一个农场游戏，可以在主界面实现种菜、收菜、浇水、施肥等各种功能，与一般的农场游戏无异
 
-   ![image-20200116230216351](F:\markdown图床\image-20200116230216351.png)
+   ![image-20200116230216351](https://zachary66.oss-cn-shenzhen.aliyuncs.com/img/image-20200116230216351.png)
 
 3. 在游戏开始前需要登录注册
 
-   ![image-20200116230128608](F:\markdown图床\image-20200116230128608.png)
+   ![image-20200116230128608](https://zachary66.oss-cn-shenzhen.aliyuncs.com/img/image-20200116230128608.png)
 
 4. 游戏有计时系统，主要用来实现昼夜交替、人物作息、作物生长
 
@@ -16,19 +16,19 @@
 
    - 人物作息：到了晚上需要睡觉，睡觉可以恢复体力，否则会晕倒，晕倒会损失体力和金币
 
-     ![image-20200116230722603](F:\markdown图床\image-20200116230722603.png)
+     ![image-20200116230722603](https://zachary66.oss-cn-shenzhen.aliyuncs.com/img/image-20200116230722603.png)
 
-     ![image-20200116230741099](F:\markdown图床\image-20200116230741099.png)
+     ![image-20200116230741099](https://zachary66.oss-cn-shenzhen.aliyuncs.com/img/image-20200116230741099.png)
 
-     ![image-20200116230954680](F:\markdown图床\image-20200116230954680.png)
+     ![image-20200116230954680](https://zachary66.oss-cn-shenzhen.aliyuncs.com/img/image-20200116230954680.png)
 
    - 作物生长：作物浇水时开始生长，浇水buff持续一天，一天后消失，作物将停止生长，一天没有浇水的作物将死亡
 
 5. 地图中加入了一些厦大元素，还设置了几个简单的NPC
 
-   ![image-20200116230834442](F:\markdown图床\image-20200116230834442.png)
+   ![image-20200116230834442](https://zachary66.oss-cn-shenzhen.aliyuncs.com/img/image-20200116230834442.png)
 
-   ![image-20200116230903896](F:\markdown图床\image-20200116230903896.png)
+   ![image-20200116230903896](https://zachary66.oss-cn-shenzhen.aliyuncs.com/img/image-20200116230903896.png)
 
 # 运行环境要求
 
